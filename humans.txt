@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason Taylor    Jason@git ttraining  
+
+    
 
 # THANKS
 
